@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-21T08:26:23.04766238Z"
+    description: A Helm chart for gitrepotest
+    digest: abd26b8e6d9ee32d65abce2bce5663080e8bfc36765a33cb0b6c78b26f53e0a9
+    name: gitrepotest
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-21T08:26:23.047137285Z"
